@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title('Hola mundo, esto es una prueba desde streamlit')
+st.title('Hola mundo, esta es una prueba desde streamlit')
